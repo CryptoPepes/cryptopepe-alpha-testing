@@ -11,6 +11,7 @@ reward in PEP tokens (at least 100 PEP) per valuable bug/issue, once the PEP tok
 1. **Select Ropsten testnet**
 1. Create another account using the menu in de right top 
 1. Select Account 1 again
+1. You can get free Ropsten test ethers from a ropsten faucet. Recommended faucet: http://faucet.ropsten.be:3001/
 1. Copy the address of Account 1 (copy address to clipboard) and PM it to @itlake or @cr_mn in telegram,
    we will send you some fresh GEN 0 Pepes, you will receive PEP tokens there.
 1. Wait for confirmation of us sending of some Pepes to your account
