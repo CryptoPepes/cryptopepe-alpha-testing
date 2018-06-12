@@ -14,13 +14,13 @@ reward in PEP tokens (at least 100 PEP) per valuable bug/issue, once the PEP tok
 1. You can get free Ropsten test ethers from a ropsten faucet. Recommended faucet: http://faucet.ropsten.be:3001/
 1. Copy the address of Account 1 (copy address to clipboard) and PM it to @itlake or @cr_mn in telegram,
    we will send you some fresh GEN 0 Pepes, you will receive PEP tokens there.
-1. Wait for confirmation of us sending of some Pepes to your account
+1. Wait for confirmation of us sending some Pepes to your account.
 1. Go to [dev.cryptopepes.io](https://dev.cryptopepes.io) - open "My pepes" (in header)- you 
    should see your new Gen 0 Pepes there.
-1. Start Breeding and perform other actions
+1. Start Breeding and perform other actions.
 1. Find issues - please check if they were not reported already.
-1. **Issues should be reported in the "Issues" section on GitHub. Telegram is for communication**
-1. If not, report them. Please use the issue template effectively.
+1. **Issues should be reported in the [Issues section](https://github.com/CryptoPepes/cryptopepes-alpha-test/issues)  section on GitHub.** Telegram is for communication.
+1. If the issue doesn't exist, report it. Please use the issue template effectively.
 
 
 ## What we want tested:
@@ -37,7 +37,7 @@ reward in PEP tokens (at least 100 PEP) per valuable bug/issue, once the PEP tok
 ## Guidelines
 
 1. Please be constructive, you can do whatever you want, as long as it contributes to testing.
-1. You may get others involved, but this comes with the responsibility of having them; testing is our priority.
+1. You may get others involved, but this comes with the responsibility of helping them; testing is our priority.
    There will be a public beta with freely distributed test-CPEP after the Alpha test.
 1. Communication is encouraged, share your progress / user experience,
    and we can improve on the human part too. Testing is not only about software bugs.
@@ -50,7 +50,7 @@ We will do the payout once the PEP token is created.
 
 In addition to per issue rewards, each tester that has done something will receive 100 PEP. 
 
-Also there is a reward of 250 PEP for the person who has breeded the most during the alpha.
+Also there is a reward of 250 PEP for the person who has bred the most during the alpha.
 
 The alpha will run until Saturday, and may be restarted in case of severe issues that need a contract re-deploy.
 In this case, we will put out a notice and keep track of individual bounty progress during the transition.
